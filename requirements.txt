@@ -1,0 +1,15 @@
+numpy==1.19.5
+matplotlib==3.3.4
+gym==0.18.0
+torch==1.8.0
+torchvision==0.9.0
+scipy==1.5.4
+pyyaml==5.4.1
+rospkg==1.2.10
+catkin_pkg==0.4.23
+defusedxml==0.7.1
+cloudpickle==1.6.0
+pillow==7.2.0
+pyglet==1.5.0
+GitPython==3.1.14
+gitdb==4.0.5
